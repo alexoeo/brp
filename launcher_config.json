@@ -34,10 +34,10 @@
     }
   ],
 
- "cache": {
+"cache": {
   "enabled": true,
-  "api_url": "https://gitlab.com/api/v4/projects/87616550/packages/generic/capital-cache/winter-2026-10-27/api-winter-2026-10-28.json",
-  "files_url": "https://gitlab.com/api/v4/projects/87616550/packages/generic/capital-cache/winter-2026-10-27"
+  "api_url": "https://gitlab.com/api/v4/projects/87616550/packages/generic/capital-cache/brilliant-phone-2026-10-29/api.json",
+  "files_url": "https://gitlab.com/api/v4/projects/87616550/packages/generic/capital-cache/brilliant-phone-2026-10-29/"
 },
 
   "version": {
