@@ -36,10 +36,10 @@
 
 "cache": {
   "enabled": true,
-  "api_url": "https://gitlab.com/api/v4/projects/87616550/packages/generic/capital-cache/brilliant-phone-2026-10-29/api.json",
+  "api_url": "https://gitlab.com/api/v4/projects/87616550/packages/generic/capital-cache/brilliant-phone-2026-10-29/api-allowed-2026-10-30.json",
   "files_url": "https://gitlab.com/api/v4/projects/87616550/packages/generic/capital-cache/brilliant-phone-2026-10-29/"
 },
-
+  
   "version": {
     "code": 612622272,
     "name": "1.0.0",
