@@ -28,10 +28,16 @@
   "news": [
     {
       "title": "Добро пожаловать на Capital RP!",
-      "image": "https://hotels24.ua/news/samye-krasivye-goroda-ukrainy-10231381.html",
+      "image": "",
       "text": "Добро пожаловать на Capital RP!",
       "date": "2026-06-05"
-    }
+    },
+    {
+      "title": "Нажмите на 3 точки справа,укажите ник,затем жмите играть и дождитесь установки игровых файлов!",
+      "image": "",
+      "text": "",
+      "date": "2026-06-05"
+    },
   ],
 
 "cache": {
