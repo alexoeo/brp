@@ -1,54 +1,48 @@
 {
-  "project_name": "Capital RP",
-  "logo_url": "https://6942f009858f5.xvest5.ru/brilliant-cdn/logo.png",
+  "project_name": "",
+  "logo_url": "",
   "background_url": "",
 
   "urls": {
-    "cdn": "https://6942f009858f5.xvest5.ru/brilliant-cdn/",
-    "donate": "https://",
-    "forum": "https://",
-    "support": "https://",
-    "telegram": "https://",
-    "vk": "https://",
-    "discord": "https://",
-    "privacy": "https://"
+    "cdn": "",
+    "donate": "",
+    "forum": "
+    "support": "",
+    "telegram": "",
+    "vk": "",
+    "discord": "",
+    "privacy": ""
   },
 
   "servers": [
     {
-      "name": "CAPITAL RP | 01",
-      "ip": "54.38.117.78",
-      "port": 1225,
-      "x2": false,
-      "online": 49,
-      "maxonline": 50
     }
   ],
 
   "news": [
     {
-      "title": "Добро пожаловать на Capital RP!",
-      "image": "",
-      "text": "Добро пожаловать на Capital RP!",
-      "date": "2026-06-05"
-    },
-    {
-      "title": "Жмите на 3 точки справа,укажите ник,затем жмите играть!",
+      "title": "АВТОР ЛАУНЧЕРА: WERTONIL",
       "image": "",
       "text": "",
-      "date": "2026-06-05"
-    }
+      "date": ""
+    },
+    {
+      "title": "Кеш платный=лаунч не работает",
+      "image": "",
+      "text": "",
+      "date": ""
+    },
   ],
 
 "cache": {
   "enabled": true,
-  "api_url": "https://gitlab.com/api/v4/projects/87616550/packages/generic/capital-cache/brilliant-phone-2026-10-29/api-allowed-2026-10-30.json",
-  "files_url": "https://gitlab.com/api/v4/projects/87616550/packages/generic/capital-cache/brilliant-phone-2026-10-29/"
+  "api_url": "",
+  "files_url": ""
 },
   
   "version": {
-    "code": 612622272,
-    "name": "1.0.0",
+    "code": ,
+    "name": "",
     "apk_url": ""
   }
 }
